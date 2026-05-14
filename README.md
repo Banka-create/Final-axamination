@@ -22,7 +22,7 @@
 
 ```bash
 # клонируем репозиторий
-git clone https://github.com/Banka-create/Final-axamination/blob/main/README.md
+git clone https://github.com/Banka-create/Final-axamination
 cd main.py
 
 # Запуск приложения
